@@ -3,11 +3,18 @@ package com.example.hhh;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.Button;
+import android.widget.EditText;
 import android.widget.TextView;
 
+import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 
 public class LoginActivity extends AppCompatActivity {
+
+
+    private AlertDialog dialog;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -19,7 +26,6 @@ public class LoginActivity extends AppCompatActivity {
         {
             @Override
             public void onClick(View view) {
-                //intent로 회원가입 버튼을 눌렀을 때 registerActivity로 넘어가게 한다.
                 Intent registerIntent = new Intent(LoginActivity.this, RegisterActivity.class);
                 LoginActivity.this.startActivity(registerIntent);
             }
@@ -28,18 +34,28 @@ public class LoginActivity extends AppCompatActivity {
         });
 
 
-        TextView loginButton = (TextView)findViewById(R.id.loginButton);
-        registerButton.setOnClickListener(new View.OnClickListener()
+        final EditText idText = (EditText)findViewById(R.id.idText);
+        final EditText passwordText = (EditText)findViewById(R.id.passwordText);
+        final Button loginButton = (Button)findViewById(R.id.loginButton);
+
+
+        loginButton.setOnClickListener(new View.OnClickListener()
         {
+
             @Override
-            public void onClick(View view) {
-                //intent로 로그인 버튼을 눌렀을 때 ChoosebuildingActivity로 넘어가게 한다.
-                Intent loginIntent = new Intent(LoginActivity.this, ChoosebuildingActivity.class);
-                LoginActivity.this.startActivity(loginIntent);
+            public void onClick(View v) {
+                Intent intent = new Intent(LoginActivity.this, ChoosebuildingActivity.class);
+                LoginActivity.this.startActivity(intent);
+                finish();
+
             }
 
 
         });
+
+
+
+
 
     }
 }
