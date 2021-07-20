@@ -46,7 +46,8 @@
             android:id="@+id/checkBox"
             android:layout_width="110dp"
             android:layout_height="wrap_content"
-            android:text="학생" />
+            android:text="학생"
+            android:checked="true"/>
 
         <CheckBox
             android:id="@+id/checkBox2"
@@ -109,10 +110,11 @@
                 android:layout_gravity="center"
                 android:layout_marginTop="10dp"
                 android:background="@color/colorPrimary"
-                android:text="회원가입"
+                android:text="가입하기"
                 android:textColor="@color/white"
                 android:textSize="20dp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:id="@+id/registerButton"/>
 
             <!--<TextView
                 android:id="@+id/registerButton"
