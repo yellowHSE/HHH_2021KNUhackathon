@@ -4,12 +4,11 @@ import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-//IT5 달력
-public class IT5Calendar extends AppCompatActivity {
+public class IT4chooseclass_empty extends AppCompatActivity {
+
+    @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_it5calendar);
-
-
+        setContentView(R.layout.activity_it4chooseclass_empty);
     }
 }

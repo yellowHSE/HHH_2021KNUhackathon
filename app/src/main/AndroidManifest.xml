@@ -10,27 +10,30 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme.NoActionBar">
 
-
-        <activity android:name=".SplashActivity"
-            android:theme="@style/SplashTheme"
-            android:screenOrientation="portrait">
+        <activity android:name=".IT4chooseclass_empty"></activity>
+        <activity
+            android:name=".SplashActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/SplashTheme">
             <intent-filter>
-                <action android:name="android.intent.action.MAIN"/>
-                <category android:name="android.intent.category.LAUNCHER" />
+                <action android:name="android.intent.action.MAIN" />
 
+                <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
-        <activity android:name=".LoginActivity">
-
-        </activity>
-
-
-        <activity android:name=".RegisterActivity"
-            android:label="@string/app_name">
-
-        </activity>
-
+        <activity android:name=".LoginActivity"></activity>
+        <activity
+            android:name=".RegisterActivity"
+            android:label="@string/app_name"></activity>
+        <activity
+            android:name=".ChoosebuildingActivity"
+            android:label="@string/app_name"></activity>
+        <activity
+            android:name=".IT4Calendar"
+            android:label="@string/app_name"></activity>
+        <activity
+            android:name=".IT5Calendar"
+            android:label="@string/app_name"></activity>
 
     </application>
 
