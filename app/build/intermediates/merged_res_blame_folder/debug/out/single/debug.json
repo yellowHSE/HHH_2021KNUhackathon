@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\build\\intermediates\\res\\merged\\debug\\drawable_select_image.xml.flat",
+        "source": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\src\\main\\res\\drawable\\select_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\build\\intermediates\\res\\merged\\debug\\drawable_underground102.png.flat",
+        "source": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\src\\main\\res\\drawable\\underground102.png"
+    },
+    {
+        "merged": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment1_layout.xml.flat",
+        "source": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\src\\main\\res\\layout\\fragment1_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment4_layout.xml.flat",
+        "source": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\src\\main\\res\\layout\\fragment4_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\build\\intermediates\\res\\merged\\debug\\drawable_select.png.flat",
+        "source": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\src\\main\\res\\drawable\\select.png"
+    },
+    {
+        "merged": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment2_layout.xml.flat",
+        "source": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\src\\main\\res\\layout\\fragment2_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\build\\intermediates\\res\\merged\\debug\\drawable_underground101.png.flat",
+        "source": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\src\\main\\res\\drawable\\underground101.png"
+    },
+    {
+        "merged": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_main.xml.flat",
+        "source": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment3_layout.xml.flat",
+        "source": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\src\\main\\res\\layout\\fragment3_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\hse20\\Desktop\\sw Hackathon\\staff\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]
