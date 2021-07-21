@@ -77,3 +77,6 @@
 	건의 사항에 대한 답변 작성 및 공지를 작성할 수 있는 페이지
 	
 <h3>프로그램 구성 코드 설명</h3>
+
+![loading](https://user-images.githubusercontent.com/71762328/126544390-6c9de7cf-e6c0-4d71-a168-2a32840fc6a6.jpg)
+
