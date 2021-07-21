@@ -1,0 +1,33 @@
+com/example/staff_reservation/BuildConfig.java
+ com.example.staff_reservation.BuildConfig
+com/example/staff_reservation/MainActivity.java
+ com.example.staff_reservation.MainActivity
+ com.example.staff_reservation.MainActivity$1
+com/example/staff_reservation/ui/main/PlaceholderFragment.java
+ com.example.staff_reservation.ui.main.PlaceholderFragment
+ com.example.staff_reservation.ui.main.PlaceholderFragment$1
+com/example/staff_reservation/ui/main/PageViewModel.java
+ com.example.staff_reservation.ui.main.PageViewModel
+ com.example.staff_reservation.ui.main.PageViewModel$1
+com/example/staff_reservation/databinding/Fragment4LayoutBinding.java
+ com.example.staff_reservation.databinding.Fragment4LayoutBinding
+com/example/staff_reservation/databinding/FragmentMainBinding.java
+ com.example.staff_reservation.databinding.FragmentMainBinding
+com/example/staff_reservation/databinding/Fragment2LayoutBinding.java
+ com.example.staff_reservation.databinding.Fragment2LayoutBinding
+com/example/staff_reservation/Fragment3.java
+ com.example.staff_reservation.Fragment3
+com/example/staff_reservation/databinding/Fragment3LayoutBinding.java
+ com.example.staff_reservation.databinding.Fragment3LayoutBinding
+com/example/staff_reservation/Fragment4.java
+ com.example.staff_reservation.Fragment4
+com/example/staff_reservation/databinding/ActivityMainBinding.java
+ com.example.staff_reservation.databinding.ActivityMainBinding
+com/example/staff_reservation/Fragment2.java
+ com.example.staff_reservation.Fragment2
+com/example/staff_reservation/ui/main/SectionsPagerAdapter.java
+ com.example.staff_reservation.ui.main.SectionsPagerAdapter
+com/example/staff_reservation/Fragment1.java
+ com.example.staff_reservation.Fragment1
+com/example/staff_reservation/databinding/Fragment1LayoutBinding.java
+ com.example.staff_reservation.databinding.Fragment1LayoutBinding
