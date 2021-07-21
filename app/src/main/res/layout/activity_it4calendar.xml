@@ -17,7 +17,7 @@
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:layout_marginBottom="10dp"
-            android:text="날짜 선택"
+            android:text="IT 4호관 예약 날짜 선택"
             android:background="@color/colorPrimary"
             android:textColor="@color/white"
             android:textSize="30dp"
@@ -30,7 +30,7 @@
             android:layout_gravity="center"
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
-            android:text="좌석을 예약하실 날짜를 선택해 주세요."
+            android:text="IT 4호관 좌석을 예약하실 날짜를 선택해 주세요."
             android:textColor="@color/black"
             android:textSize="20dp"/>
 

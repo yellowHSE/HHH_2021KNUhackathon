@@ -36,12 +36,11 @@ public class IT4Calendar extends AppCompatActivity {
 
         it4endButton.setOnClickListener(new View.OnClickListener()
         {
-            //타이머 가동
             @Override
             public void onClick(View v) {
 
 
-                //Toast
+                //Toast 메세지
                 Toast.makeText(getApplicationContext(),
                         selectYear+"년 "+
                                 selectMonth +"월 "+ selectDay+"일을 선택했습니다.",Toast.LENGTH_LONG).show();
