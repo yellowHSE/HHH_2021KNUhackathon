@@ -74,7 +74,7 @@
 어느 정도 필요성을 인정받았다고 판단, 이 프로그램(어플리케이션)을 제작하게 되었습니다.
 
 
-## 🖍🖋 프로그램의 필요성에 관한 설문조사 결과
+## 🖍 프로그램의 필요성에 관한 설문조사 결과
 
 ![1번 질문 답변](https://postfiles.pstatic.net/MjAyMTA3MjNfMTM0/MDAxNjI2OTc1Nzc3NTAx.COJLtY0t0qXy-cltRaN8aK4Tmk7DA3fOfXZemBDf9dYg.3qvhfwEEuncKjj-v3VyNCpV0aWcabSu63CHyLic_Amsg.PNG.nuly08/1%EB%B2%88_%EC%A7%88%EB%AC%B8.PNG?type=w773)
 ![2번 질문 답변](https://postfiles.pstatic.net/MjAyMTA3MjNfMjkg/MDAxNjI2OTc1Nzc3NTAx.kt_iLieV7-UKx3VjlqR5Puv413mCy8ycgVtM2DrP0hwg.wyWxO0l-XtwbxIOSsmFpPJSb5Brrm7mUPuudqIn42uwg.PNG.nuly08/2%EB%B2%88_%EC%A7%88%EB%AC%B8.PNG?type=w773)
@@ -290,6 +290,16 @@ IT 4호관의 강의실 또는 좌석을 예약할 날짜 선택을 구현한 �
 Calendarview를 이용하였습니다.
 
 ```
+
+## ✨ 향후 확장 및 개발 방향
+
+1. 현재 경북대학교 컴퓨터학부만 대상으로 하지만, 상용화된다면 실제 경북대학교 내의 학부별로 사용할 수 있는 빈 강의실과 좌석 등을 파악하여 
+
+경북대학교 학우 전체가 학업에 있어 스마트하고 편리한 캠퍼스 생활을 할 수 있도록 할 것이다.
+
+2. 교수님들에게도 원활한 홍보를 통해 편하게 이용하실 수 있도록 할 것이다.
+
+3. // 관리자 관련된 얘기 와야할 듯
 
 
 
