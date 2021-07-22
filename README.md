@@ -157,4 +157,4 @@
 
 🤸‍♀️ 서경희 _KNU CSE 20_  //  Kyunghee's github link: 
 
-👩‍🚀 최희정 _KNU CSE 20_  //  [Heejung's github link] [https://github.com/hdddhdd]
+👩‍🚀 최희정 _KNU CSE 20_  //  [Heejung's github link](https://github.com/hdddhdd)
