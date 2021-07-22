@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_height="wrap_content"
+    android:background="#eeeeee"
+    android:orientation="vertical">
+
+    <!--타이틀바-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="53dp"
+            android:gravity="center"
+            android:background="#FF0000"
+            android:text="알림"
+            android:textSize="20sp"
+            android:textColor="#eeeeee" />
+    </LinearLayout>
+
+    <!--내용-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="24dp"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txt"
+            android:textSize="20sp"
+            android:text="자리를 예약하시겠습니까?"
+            android:alpha="0.87"
+            android:gravity="center"
+            android:layout_marginBottom="3dp"
+            android:background="#eeeeee" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#eeeeee" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center" >
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:stretchColumns="*"
+            android:background="#eeeeee">
+
+            <TableRow
+                android:layout_width="146dp"
+                android:layout_height="match_parent"
+                android:background="#eeeeee">
+
+                <Button
+                    android:id="@+id/buttonRsv"
+                    android:layout_width="match_parent"
+                    android:layout_height="43dp"
+                    android:gravity="center"
+                    android:text="예약하기"
+                    android:textSize="15sp"
+                    android:background="#eeeeee" />
+
+                <Button
+                    android:id="@+id/buttonNRsv"
+                    android:layout_width="match_parent"
+                    android:layout_height="43dp"
+                    android:gravity="center"
+                    android:text="취소"
+                    android:textSize="15sp"
+                    android:background="#eeeeee"
+                    android:onClick="mOnClose" />
+
+            </TableRow>
+
+        </TableLayout>
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

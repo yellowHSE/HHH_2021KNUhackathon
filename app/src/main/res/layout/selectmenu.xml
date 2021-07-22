@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/button_conf"
+        android:layout_width="305dp"
+        android:layout_height="80dp"
+        android:layout_x="110px"
+        android:layout_y="800px"
+        android:text="회의용" />
+
+    <Button
+        android:id="@+id/button_std"
+        android:layout_width="305dp"
+        android:layout_height="80dp"
+        android:layout_x="110px"
+        android:layout_y="1300px"
+        android:text="자습용" />
+
+</AbsoluteLayout>
