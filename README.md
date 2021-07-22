@@ -4,7 +4,7 @@
 **https://gist.github.com/ihoneymon/652be052a0727ad59601 여기 참고 해서 쓰면 좋다!
 
 
-## 프로그램 설명
+## 🖥 프로그램 설명
 (__~~ 강의실 예약 프로그램입니다.   이 밑에 첨성인 그런거 다 조합해서 정리하면 좋을듯 __)
 
 이 프로그램 “KNU 강의실 및 좌석 예약 앱(가제)”은 
@@ -113,8 +113,8 @@
 
 
 ## 프로그램 제작자 
-🙆‍♀️ 홍송은 _KNU CSE 20_ 
+🙆‍♀️ 홍송은 _KNU CSE 20_ Songeun's github link: 
 
-🤸‍♀️ 서경희 _KNU CSE 20_
+🤸‍♀️ 서경희 _KNU CSE 20_ Kyunghee's github link: 
 
-👩‍🚀 최희정 _KNU CSE 20_
+👩‍🚀 최희정 _KNU CSE 20_  Heejung's github link: https://github.com/hdddhdd
