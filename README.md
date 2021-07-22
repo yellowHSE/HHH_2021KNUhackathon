@@ -72,6 +72,12 @@
 ## 프로그램의 필요성에 관한 설문조사 결과
 
 ![1번 질문 답변](https://postfiles.pstatic.net/MjAyMTA3MjNfMTM0/MDAxNjI2OTc1Nzc3NTAx.COJLtY0t0qXy-cltRaN8aK4Tmk7DA3fOfXZemBDf9dYg.3qvhfwEEuncKjj-v3VyNCpV0aWcabSu63CHyLic_Amsg.PNG.nuly08/1%EB%B2%88_%EC%A7%88%EB%AC%B8.PNG?type=w773)
+![2번 질문 답변](https://postfiles.pstatic.net/MjAyMTA3MjNfMjkg/MDAxNjI2OTc1Nzc3NTAx.kt_iLieV7-UKx3VjlqR5Puv413mCy8ycgVtM2DrP0hwg.wyWxO0l-XtwbxIOSsmFpPJSb5Brrm7mUPuudqIn42uwg.PNG.nuly08/2%EB%B2%88_%EC%A7%88%EB%AC%B8.PNG?type=w773)
+![3번 질문 답변](https://postfiles.pstatic.net/MjAyMTA3MjNfMTYw/MDAxNjI2OTc1Nzc3NTIx.3tBIrA0vZknolFzNO87TckO5zTn07r8VIHl1FGX4USAg.hRk65M5lm5E0zRgCuJT8viUjH3rQokQ9rUbc2alDdKcg.PNG.nuly08/3%EB%B2%88_%EC%A7%88%EB%AC%B8.PNG?type=w773)
+![3-1번 질문 답변](![image](https://user-images.githubusercontent.com/71762328/126684750-d3c71340-860c-465c-9233-bf056fb45fe5.png)
+)
+![4번 질문 답변](![image](https://user-images.githubusercontent.com/71762328/126684770-47051b71-0940-4367-b57e-0a3d2a514e01.png))
+
 
 
 ## 프로그램 (어플리케이션) 사용 가이드
