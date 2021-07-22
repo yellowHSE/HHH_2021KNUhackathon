@@ -56,6 +56,8 @@
        2020-2: 지정 강의실의 빈 좌석 자율 이용  ⇨ 2021-1: 지정 강의실의 좌석 사전 예약 후 이용 
 
 
+
+
 바뀐 방법의 장점은 다음과 같습니다.
 
 * COVID-19로 인해 강의실 사용을 예약제로 바꾸면서 Google Form을 통한 좌석 예약 및 입실/퇴실 명부 관리로 기존에 취약했던 COVID-19 감염 및 전파의 대비책이 잘 마련되었다.
@@ -253,14 +255,48 @@
 
 * * *
 
-## 프로그램 구성 코드 설명
+## 프로그램 제작 툴 및 구성 코드 설명
+
+이 프로그램은 'Android Studio'를 통해 제작되었습니다.
+
+```
+1. SplashActivity.java, activity_splash.xml
+
+앱 실행 초기에 3초간 기본 화면이 표시되었다가 사라지도록 구현한 코드입니다.
+
+2. LoginActivity.java, LoginRequest.java, activity_login.xml
+
+앱 로그인을 구현한 코드입니다.
+
+3. RegisterActivity.java, activity_register.xml
+
+앱 회원가입을 구현한 코드입니다.
+
+4. ChoosebuildingActivity.java, activity_choosebuilding.xml
+
+로그인 후에 강의실 및 좌석을 예약할 건물 선택을 구현한 코드입니다.
+
+5. IT4Calendar.java, activity_it4calendar.xml
+
+IT 4호관의 강의실 또는 좌석을 예약할 날짜 선택을 구현한 코드입니다.
+
+_(Calendarview를 이용하였습니다.)_
+
+6. IT5Calendar.java, activity_it5calendar.xml
+
+IT 4호관의 강의실 또는 좌석을 예약할 날짜 선택을 구현한 코드입니다.
+
+_(Calendarview를 이용하였습니다.)_
+
+```
+
 
 
 
 
 ## 프로그램 제작자 
-🙆‍♀️ 홍송은 _KNU CSE 20_  //  Songeun's github link: 
+🙆‍♀️ 홍송은 _KNU CSE 20_  //  [Songeun's github link](https://github.com/yellowHSE) 
 
-🤸‍♀️ 서경희 _KNU CSE 20_  //  Kyunghee's github link: 
+🤸‍♀️ 서경희 _KNU CSE 20_  //  [Kyunghee's github link](https://github.com/lhskh307218) 
 
 👩‍🚀 최희정 _KNU CSE 20_  //  [Heejung's github link](https://github.com/hdddhdd)
