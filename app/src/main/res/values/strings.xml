@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">HHH</string>
+    <string name="app_name">IT대 융복합관</string>
+    <string name="tab_text_1">지하 1층</string>
+    <string name="tab_text_2">2층</string>
+    <string name="tab_text_3">3층</string>
+    <string name="tab_text_4">4층</string>
 </resources>
