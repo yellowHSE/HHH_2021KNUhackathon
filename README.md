@@ -74,7 +74,7 @@
 어느 정도 필요성을 인정받았다고 판단, 이 프로그램(어플리케이션)을 제작하게 되었습니다.
 
 
-## 프로그램의 필요성에 관한 설문조사 결과
+## 🧨 프로그램의 필요성에 관한 설문조사 결과
 
 ![1번 질문 답변](https://postfiles.pstatic.net/MjAyMTA3MjNfMTM0/MDAxNjI2OTc1Nzc3NTAx.COJLtY0t0qXy-cltRaN8aK4Tmk7DA3fOfXZemBDf9dYg.3qvhfwEEuncKjj-v3VyNCpV0aWcabSu63CHyLic_Amsg.PNG.nuly08/1%EB%B2%88_%EC%A7%88%EB%AC%B8.PNG?type=w773)
 ![2번 질문 답변](https://postfiles.pstatic.net/MjAyMTA3MjNfMjkg/MDAxNjI2OTc1Nzc3NTAx.kt_iLieV7-UKx3VjlqR5Puv413mCy8ycgVtM2DrP0hwg.wyWxO0l-XtwbxIOSsmFpPJSb5Brrm7mUPuudqIn42uwg.PNG.nuly08/2%EB%B2%88_%EC%A7%88%EB%AC%B8.PNG?type=w773)
@@ -87,7 +87,7 @@
 -----
 
 
-## 프로그램 (어플리케이션) 사용 가이드
+## 📃 프로그램 (어플리케이션) 사용 가이드
 
    _이 가이드는 어플리케이션이 진행되는 순서에 맞게 작성되었습니다._
 
@@ -150,6 +150,7 @@
 		
 		
 <학생 페이지>
+
 1) 주요 기능: 강의실 사용 예약(날짜 및 시간)
 	
 2) 디자인 동일
@@ -255,7 +256,7 @@
 
 * * *
 
-## 프로그램 제작 툴 및 구성 코드 설명
+## 💾 프로그램 제작 툴 및 구성 코드 설명
 
 이 프로그램은 'Android Studio'를 통해 제작되었습니다.
 
@@ -280,13 +281,13 @@
 
 IT 4호관의 강의실 또는 좌석을 예약할 날짜 선택을 구현한 코드입니다.
 
-_(Calendarview를 이용하였습니다.)_
+Calendarview를 이용하였습니다.
 
 6. IT5Calendar.java, activity_it5calendar.xml
 
 IT 4호관의 강의실 또는 좌석을 예약할 날짜 선택을 구현한 코드입니다.
 
-_(Calendarview를 이용하였습니다.)_
+Calendarview를 이용하였습니다.
 
 ```
 
