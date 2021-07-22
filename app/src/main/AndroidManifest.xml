@@ -40,6 +40,14 @@
         <activity
             android:name=".IT5Calendar"
             android:label="@string/app_name" />
+        
+        <activity
+            android:name=".menuSelectActivity"
+            android:label="@string/app_name" />
+        <activity
+            android:name=".classSelectActivity"
+            android:label="@string/app_name" />
+        
     </application>
 
 </manifest>
