@@ -244,17 +244,21 @@
 
 앱 회원가입을 구현한 코드입니다.
 
-4. ChoosebuildingActivity.java, activity_choosebuilding.xml
+4. ChoosepeopleActivity.java, activity_choosepeople.xml
 
-로그인 후에 강의실 및 좌석을 예약할 건물 선택을 구현한 코드입니다.
+로그인 후에 학생 또는 교직원 선택을 구현한 코드입니다.
 
-5. IT4Calendar.java, activity_it4calendar.xml
+5. ChoosebuildingActivity.java, activity_choosebuilding.xml
+
+학생 또는 교직원을 선택한 후에 강의실 및 좌석을 예약할 건물 선택을 구현한 코드입니다.
+
+6. IT4Calendar.java, activity_it4calendar.xml
 
 IT 4호관의 강의실 또는 좌석을 예약할 날짜 선택을 구현한 코드입니다.
 
 Calendarview를 이용하였습니다.
 
-6. IT5Calendar.java, activity_it5calendar.xml
+7. IT5Calendar.java, activity_it5calendar.xml
 
 IT 4호관의 강의실 또는 좌석을 예약할 날짜 선택을 구현한 코드입니다.
 
@@ -274,7 +278,7 @@ Calendarview를 이용하였습니다.
 
 다음은 관리자 페이지에 포함될 내용을 글로 간단히 작성한 것입니다.
 
-		
+```		
 <관리자용 페이지>
 
 1) 주요 기능: 강의실 사용 승인
@@ -299,7 +303,7 @@ Calendarview를 이용하였습니다.
 	
 	건의 사항에 대한 답변 작성 및 공지를 작성할 수 있는 페이지
 
-
+```
 
 
 
