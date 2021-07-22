@@ -6,6 +6,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
@@ -26,6 +27,8 @@ public class LoginActivity extends AppCompatActivity {
         {
             @Override
             public void onClick(View view) {
+
+
                 Intent registerIntent = new Intent(LoginActivity.this, RegisterActivity.class);
                 LoginActivity.this.startActivity(registerIntent);
             }
@@ -41,9 +44,13 @@ public class LoginActivity extends AppCompatActivity {
 
         loginButton.setOnClickListener(new View.OnClickListener()
         {
-
             @Override
             public void onClick(View v) {
+
+                //Toast 메세지
+                Toast.makeText(getApplicationContext(),
+                        "로그인되었습니다.", Toast.LENGTH_SHORT).show();
+
                 Intent choosebuildingintent = new Intent(LoginActivity.this, ChoosebuildingActivity.class);
                 LoginActivity.this.startActivity(choosebuildingintent);
                 finish();

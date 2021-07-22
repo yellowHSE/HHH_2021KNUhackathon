@@ -16,6 +16,9 @@ public class IT5Calendar extends AppCompatActivity {
     CalendarView it5calendar;
     int selectYear, selectMonth, selectDay;
 
+    int presentYear, presentMonth, presentDay;
+    
+
 
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
