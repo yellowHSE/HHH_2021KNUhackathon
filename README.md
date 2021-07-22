@@ -22,6 +22,7 @@
 또한, 학생들뿐만 아니라, 다른 교직원분들이 정규 강의 등이 아닌 타목적으로 강의실을 이용해야 할 시에
 
 직접 사무실에 알리지 않아도, 이 프로그램으로 보다 스마트하게 강의실 예약이 가능할 것입니다.
+
 -----
 
 저희는 첨성인의 세 가지 덕목 "진리", "긍지", "봉사"에 걸맞는 프로그램을 제작하기 위해 노력했습니다.
@@ -42,7 +43,7 @@
 
 첨성인의 덕목 외에도 현재 COVID-19로 인해 바뀐 대학생활 중 일부를 보다 스마트한 방향으로 보완해 나가기 위해 노력하였습니다.
 
-***
+-----
 
 ## ✍ 프로그램을 제작하게 된 동기
 
@@ -70,7 +71,7 @@
 
 ## 프로그램의 필요성에 관한 설문조사 결과
 
-![1번 질문 답변](file:///C:/Users/nuly0/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/1%EB%B2%88%20%EC%A7%88%EB%AC%B8.PNG)
+![1번 질문 답변](https://postfiles.pstatic.net/MjAyMTA3MjNfMTM0/MDAxNjI2OTc1Nzc3NTAx.COJLtY0t0qXy-cltRaN8aK4Tmk7DA3fOfXZemBDf9dYg.3qvhfwEEuncKjj-v3VyNCpV0aWcabSu63CHyLic_Amsg.PNG.nuly08/1%EB%B2%88_%EC%A7%88%EB%AC%B8.PNG?type=w773)
 
 
 ## 프로그램 (어플리케이션) 사용 가이드
