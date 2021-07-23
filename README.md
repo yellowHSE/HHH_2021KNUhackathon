@@ -1,9 +1,6 @@
 <h1 align="center">홍홍홍_2021KNUhackathon</h1>
 
 
-**https://gist.github.com/ihoneymon/652be052a0727ad59601 여기 참고 해서 쓰면 좋다!
-
-
 ## 🖥 프로그램 설명
 
 이 프로그램 “KNU 강의실 및 좌석 예약 앱(가제)”은 
