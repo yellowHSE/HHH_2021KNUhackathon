@@ -284,6 +284,14 @@ IT 4호관 101호 강의실의 배치표와, 좌석 선택을 구현한 코드�
 
 강의실 좌석 배정과 관련된 팝업창을 구현한 코드입니다.
 
+Flagment1_layout.xml ~ Flagment4_layout.xml: IT 5호관 층별로 탭들의 레이아웃입니다. 각 탭을 누르면 해당 층의 강의실이 버튼으로 보여집니다. 
+
+ Flagment_it4_1_layout.xml ~ Flagment_it4_2_layout.xml: IT 4호관 층별로 탭들의 레이아웃입니다. 각 탭을 누르면 해당 층의 강의실이 버튼으로 보여집니다. 
+
+Flagment1.java ~ Flagment4.java: IT 5호관 층별로 탭들을 만드는 java파일입니다.
+
+Flagment_it4_1.java ~ Flagment_it4_2.java: IT 4호관 층별로 탭들을 만드는 java파일입니다.
+
 ```
 
 * * *
