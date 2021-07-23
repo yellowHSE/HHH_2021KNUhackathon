@@ -48,6 +48,10 @@
             android:name=".classSelectActivity"
             android:label="@string/app_name" />
         
+        <activity android:name=".menuSelectActivity" />
+        <activity android:name=".classSelectActivity" /><activity android:name=".rsvSeat" />
+        <activity android:name=".selectSeat101" /><activity android:name=".selectSeat101Popup" />
+        
     </application>
 
 </manifest>
