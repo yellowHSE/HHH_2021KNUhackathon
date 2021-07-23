@@ -267,6 +267,26 @@ IT 4호관의 강의실 또는 좌석을 예약할 날짜 선택을 구현한 �
 
 Calendarview를 이용하였습니다.
 
+8. menuSelect.java, selectmenu.xml
+
+학생이 강의실을 회의용과 자습용 중 어떤 용도로 이용하기위해 예약할지 선택하는 코드입니다.
+
+9. classSelectActivity.java, selectClass.xml
+
+학생이 자습용으로 강의실을 이용하려고 할 때 강의실 선택지를 보여주는 코드입니다.
+
+10. selectSeat01.java, class101.xml, table_inside.xml, table_outside.xml
+
+IT 4호관 101호 강의실의 배치표와, 좌석 선택을 구현한 코드입니다.
+
+11. rsvSeat101.java, notice_reservedseat.xml, table_reservedseat.xml
+
+강의실 좌석이 예약되었음을 가시화하는데 도움을 주는 코드입니다.
+
+12. selectSeat101Popup, selectseat_popup.xml
+
+강의실 좌석 배정과 관련된 팝업창을 구현한 코드입니다.
+
 ```
 
 * * *
